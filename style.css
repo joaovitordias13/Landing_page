@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    height: 100%;
+    background: linear-gradient(#141e30,#243b55);
+}
+.container1{
+    color: rgb(0, 238, 255);
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    padding: 20px 50px;
+}
+.container1 h1{
+    cursor: pointer;
+    font-size: 45px;
+}
+
+.container1 .menu li{
+    display: inline;
+    margin:16px;
+    font-size: 20px;
+    cursor: pointer;
+}
+section .banner{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+section .banner img{
+    height: 450px;
+    padding: 20px 50px;
+}
+.banner-desc{
+    padding-top: 15px;
+    color: white;
+    line-height: 25px;
+    text-align: center;
+}
+.banner-desc h1{
+    margin-bottom: 20px;
+}
+.banner_2{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding: 20px 20px;
+}
+.banner-desc2{
+    padding-top: 15px;
+    color: white;
+    line-height: 25px;
+    text-align: center;
+    padding-right: 20px;
+}
+.banner_2 .banner-img2 img{
+    height: 450px;
+    margin-top: 20px;
+}
+footer{
+    background-color: black;
+}
