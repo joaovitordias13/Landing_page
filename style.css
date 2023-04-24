@@ -88,8 +88,21 @@ footer .desc{
 footer .redes-sociais img{
   padding: 15px;
   align-items: center;
-  margin-right: 20px;
-cursor: pointer;
+  margin-right: 10px;
+  
+  cursor: pointer;
   background-color: darkgray;
   border-radius: 50%;
+}
+footer .form h2{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+footer .form form{
+    display: flex;
+    flex-direction: column;
+   
+}
+footer form input{
+    margin-bottom: 5px;
 }
