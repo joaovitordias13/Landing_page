@@ -18,6 +18,7 @@ body{
 .container1 h1{
     cursor: pointer;
     font-size: 45px;
+    font-family:'Bruno Ace SC', cursive;
 }
 
 .container1 .menu li{
@@ -25,6 +26,7 @@ body{
     margin:16px;
     font-size: 20px;
     cursor: pointer;
+    font-family: 'Oswald', sans-serif;
 }
 section .banner{
     display: flex;
@@ -43,12 +45,17 @@ section .banner img{
 }
 .banner-desc h1{
     margin-bottom: 20px;
+    font-family: 'Oswald', sans-serif;
 }
 .banner_2{
     display: flex;
     justify-content: center;
     padding-top: 40px;
     padding: 20px 20px;
+}
+.banner_2 h1{
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 15px;
 }
 .banner-desc2{
     padding-top: 15px;
