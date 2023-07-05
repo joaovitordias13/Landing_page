@@ -110,6 +110,11 @@ footer .form form{
     flex-direction: column;
    
 }
+footer .direitos{
+    color: white;
+    font-size: 15px;
+    padding-left: 280px;
+}
 footer form input{
     margin-bottom: 5px;
 }
