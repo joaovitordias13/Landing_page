@@ -11,7 +11,8 @@
 <br>
 
 # 💻  Sobre o Projeto:
-<li>Esse um projeto desenvolvido durante o módulo de CSS do curso oferecido pela EBAC, com o objetivo de evoluir a construção individual do aluno. O tema escolhido foi "landing page", e a página web foi criada totalmente sozinha, utilizando apenas HTML5 e CSS3. Nele está sendo represantado a landing page de um anime chamado "Cyberpunk 2077" que foi considerado uns dos melhores animes que retrada a temática Cyberpunk, além disso ínclui o formulário para contato. Para disponibilizar a página online, utilizei o serviço do site Velcel.com.</li>
+<li>Esse um projeto desenvolvido durante o módulo de CSS do curso oferecido pela EBAC, com o objetivo de evoluir a construção individual do aluno. O tema escolhido foi "landing page", e a página web foi criada totalmente sozinha, utilizando apenas HTML5 e CSS3. Nele está sendo represantado a landing page de um anime chamado "Cyberpunk 2077" que foi considerado uns dos melhores animes que retrada a temática Cyberpunk, além disso ínclui o formulário para contato. Para disponibilizar a página online, utilizei o serviço do site Velcel.com.
+Link do projeto: https://landing-page-eta-weld-88.vercel.app/</li>
 </br>
 
 # 🎨 Pré-visualização :
